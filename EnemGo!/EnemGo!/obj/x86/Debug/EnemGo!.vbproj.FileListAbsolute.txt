@@ -1,0 +1,196 @@
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\EnemGo!\EnemGo!\bin\Debug\EnemGo!.exe
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\EnemGo!\EnemGo!\bin\Debug\EnemGo!.pdb
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\EnemGo!\EnemGo!\bin\Debug\EnemGo!.xml
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Form1.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Resources.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.GenerateResource.Cache
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.exe
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.xml
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.pdb
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.MATERIA.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SIMULADOS.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.REDAÇÃO.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\ORGANIZAÇÃO\ESCOLA\TÉCNICO\HTML (Julia)\2022\TCC\Nosso\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.exe
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\ORGANIZAÇÃO\ESCOLA\TÉCNICO\HTML (Julia)\2022\TCC\Nosso\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.xml
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\ORGANIZAÇÃO\ESCOLA\TÉCNICO\HTML (Julia)\2022\TCC\Nosso\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.pdb
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\ORGANIZAÇÃO\ESCOLA\TÉCNICO\HTML (Julia)\2022\TCC\Nosso\TCC\tcc\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.exe
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\ORGANIZAÇÃO\ESCOLA\TÉCNICO\HTML (Julia)\2022\TCC\Nosso\TCC\tcc\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.pdb
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\ORGANIZAÇÃO\ESCOLA\TÉCNICO\HTML (Julia)\2022\TCC\Nosso\TCC\tcc\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.xml
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\ORGANIZAÇÃO\ESCOLA\TÉCNICO\HTML (Julia)\2022\TCC\Nosso\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Form1.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\ORGANIZAÇÃO\ESCOLA\TÉCNICO\HTML (Julia)\2022\TCC\Nosso\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.MATERIA.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\ORGANIZAÇÃO\ESCOLA\TÉCNICO\HTML (Julia)\2022\TCC\Nosso\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Resources.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\ORGANIZAÇÃO\ESCOLA\TÉCNICO\HTML (Julia)\2022\TCC\Nosso\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.REDAÇÃO.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\ORGANIZAÇÃO\ESCOLA\TÉCNICO\HTML (Julia)\2022\TCC\Nosso\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SIMULADOS.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\ORGANIZAÇÃO\ESCOLA\TÉCNICO\HTML (Julia)\2022\TCC\Nosso\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.GenerateResource.Cache
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\ORGANIZAÇÃO\ESCOLA\TÉCNICO\HTML (Julia)\2022\TCC\Nosso\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORREÇÃO_REDAÇÃO.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\ORGANIZAÇÃO\ESCOLA\TÉCNICO\HTML (Julia)\2022\TCC\Nosso\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SENHA.resources
+C:\Users\Aluno\Downloads\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.exe
+C:\Users\Aluno\Downloads\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.xml
+C:\Users\Aluno\Downloads\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.pdb
+C:\Users\Aluno\Downloads\VB.NET\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.exe
+C:\Users\Aluno\Downloads\VB.NET\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.pdb
+C:\Users\Aluno\Downloads\VB.NET\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.xml
+C:\Users\Aluno\Downloads\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORREÇÃO_REDAÇÃO.resources
+C:\Users\Aluno\Downloads\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Form1.resources
+C:\Users\Aluno\Downloads\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.MATERIA.resources
+C:\Users\Aluno\Downloads\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Resources.resources
+C:\Users\Aluno\Downloads\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.REDAÇÃO.resources
+C:\Users\Aluno\Downloads\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SENHA.resources
+C:\Users\Aluno\Downloads\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SIMULADOS.resources
+C:\Users\Aluno\Downloads\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.GenerateResource.Cache
+C:\Users\Aluno\Downloads\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORRÇÃO_ETAPA2.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\Interop.ADODB.dll
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.ResolveComReference.cache
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.exe
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.xml
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.pdb
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.exe
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.pdb
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.xml
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORREÇÃO_REDAÇÃO.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORRÇÃO_ETAPA2.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Form1.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.MATERIA.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Resources.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.REDAÇÃO.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SENHA.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SIMULADOS.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.GenerateResource.Cache
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.ResolveComReference.cache
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.exe
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.xml
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.pdb
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.exe
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.pdb
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.xml
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORREÇÃO_REDAÇÃO.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORRÇÃO_ETAPA2.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Form1.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.MATERIA.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Resources.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.REDAÇÃO.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SENHA.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SIMULADOS.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\Interop.ADODB.dll
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.ResolveComReference.cache
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.exe
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.xml
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.pdb
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.exe
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.pdb
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.xml
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORREÇÃO_REDAÇÃO.resources
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORRÇÃO_ETAPA2.resources
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Form1.resources
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.MATERIA.resources
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Resources.resources
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.REDAÇÃO.resources
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SENHA.resources
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SIMULADOS.resources
+C:\xampp\htdocs\TCC\TCC\TCC\tcc\VB.NET\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\Interop.ADODB.dll
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.ResolveComReference.cache
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.exe
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.xml
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.pdb
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.exe
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.pdb
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.xml
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORREÇÃO_REDAÇÃO.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORRÇÃO_ETAPA2.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Form1.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.MATERIA.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Resources.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.REDAÇÃO.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SENHA.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SIMULADOS.resources
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbprojAssemblyReference.cache
+C:\xampp\htdocs\TCC\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.CoreCompileInputs.cache
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\Interop.ADODB.dll
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.ResolveComReference.cache
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.exe
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.xml
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.pdb
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.exe
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.pdb
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.xml
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORREÇÃO_REDAÇÃO.resources
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORRÇÃO_ETAPA2.resources
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Form1.resources
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.MATERIA.resources
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Resources.resources
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.REDAÇÃO.resources
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SENHA.resources
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SIMULADOS.resources
+C:\xampp\htdocs\TCC (1)\TCC\tcc\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.GenerateResource.Cache
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.ResolveComReference.cache
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.exe
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.xml
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.pdb
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.exe
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.pdb
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.xml
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORREÇÃO_REDAÇÃO.resources
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORRÇÃO_ETAPA2.resources
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Form1.resources
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.MATERIA.resources
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Resources.resources
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.REDAÇÃO.resources
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SENHA.resources
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SIMULADOS.resources
+C:\Users\USER\Downloads\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.GenerateResource.Cache
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.ResolveComReference.cache
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.exe
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.xml
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.pdb
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.exe
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.pdb
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.xml
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORREÇÃO_REDAÇÃO.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORRÇÃO_ETAPA2.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Form1.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.MATERIA.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Resources.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.REDAÇÃO.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SENHA.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SIMULADOS.resources
+C:\Users\USER\Downloads\VBS\JULIA TODAS AS COISAS\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.GenerateResource.Cache
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.ResolveComReference.cache
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.exe
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.xml
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.pdb
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.exe
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.pdb
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.xml
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORREÇÃO_REDAÇÃO.resources
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORRÇÃO_ETAPA2.resources
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Form1.resources
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.MATERIA.resources
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Resources.resources
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.REDAÇÃO.resources
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SENHA.resources
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SIMULADOS.resources
+C:\Users\mribe\Desktop\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\Interop.ADODB.dll
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.ResolveComReference.cache
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.exe
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.xml
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.pdb
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.exe
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.pdb
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\bin\Debug\EnemGo!.xml
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORREÇÃO_REDAÇÃO.resources
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.CORRÇÃO_ETAPA2.resources
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Form1.resources
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.MATERIA.resources
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.Resources.resources
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.REDAÇÃO.resources
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SENHA.resources
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo_.SIMULADOS.resources
+C:\xampp\htdocs\TCC\VB.NET\EnemGo!\EnemGo!\obj\x86\Debug\EnemGo!.vbproj.GenerateResource.Cache
